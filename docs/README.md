@@ -12,3 +12,6 @@ Start with these public-safe Hermes use-case notes.
 - [Hermes secondary operator lane](hermes-secondary-operator-lane.md)
 - [Personal assistant workflow](personal-assistant-workflow.md)
 - [Research lane](research-lane.md)
+- [Notion API workflow](notion-api-workflow.md)
+- [Google Workspace CLI workflow](google-workspace-cli-workflow.md)
+- [Context checkpoint and resume](context-checkpoint-resume.md)
