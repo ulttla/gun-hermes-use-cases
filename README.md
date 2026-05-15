@@ -18,6 +18,13 @@ Hermes started as a backup audit and recovery lane for OpenClaw. It is now also 
 4. **Research lane** — focused web and topic research with reusable summaries.
 5. **Single-brain collaboration** — OpenClaw and Hermes sharing durable context through gun-wiki.
 
+## Recommended reader path
+
+- Start with [Hermes positioning](docs/hermes-positioning.md) and [dual-lane operating model](docs/dual-lane-operating-model.md).
+- Review [secondary operator lane](docs/hermes-secondary-operator-lane.md) for the core use case.
+- Read [skill and workflow examples](docs/skill-workflow-examples.md) for reusable patterns.
+- Use [public-safe evidence](docs/public-safe-evidence.md) and [public release evidence](docs/public-release-evidence.md) to understand what is deliberately omitted.
+
 ## Public-safety boundary
 
 This repo intentionally excludes credentials, private Discord channel IDs, raw chat logs, private browser profiles, and operational secrets. Examples are rewritten into reusable patterns.
