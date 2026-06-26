@@ -2,7 +2,7 @@
 
 Hermes를 OpenClaw와 상호 보완적으로 운영한 사례를 공개 가능한 형태로 정리하는 repo입니다.
 
-핵심 방향은 “OpenClaw의 백업/감사 lane으로 시작했지만, Hermes가 더 잘하는 작업은 점진적으로 Hermes에 맡긴다”입니다. 두 operator는 `gun-wiki` 단일 브레인을 공유하여 같은 장기 기억과 운영 문맥 위에서 움직입니다.
+핵심 방향은 “OpenClaw의 백업/감사 lane으로 시작했지만, Hermes가 더 잘하는 작업은 점진적으로 Hermes에 맡긴다”입니다. 두 operator는 wiki-first hybrid `gun-wiki` 단일 브레인을 공유하여 같은 장기 기억과 운영 문맥 위에서 움직입니다.
 
 ## 포함 범위
 
