@@ -15,3 +15,4 @@ Start with these public-safe Hermes use-case notes.
 - [Notion API workflow](notion-api-workflow.md)
 - [Google Workspace CLI workflow](google-workspace-cli-workflow.md)
 - [Context checkpoint and resume](context-checkpoint-resume.md)
+- [Durable Kanban, goals, and scheduled operations](durable-kanban-and-goals.md)

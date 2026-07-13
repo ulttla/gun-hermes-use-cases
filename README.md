@@ -17,12 +17,16 @@ Hermes started as a backup audit and recovery lane for OpenClaw. It is now also 
 3. **Personal assistant lane** — practical day-to-day tasks such as cleaner classified listing workflows.
 4. **Research lane** — focused web and topic research with reusable summaries.
 5. **Single-brain collaboration** — OpenClaw and Hermes sharing durable context through wiki-first gun-wiki digestion.
+6. **Durable task orchestration** — SQLite-backed Kanban state for owned work, restart recovery, and audit trails.
+7. **Evidence-backed goals** — persistent goals with explicit outcomes, verification, boundaries, and stop conditions.
+8. **Scheduled operations** — supervised briefs and audit jobs with delivery evidence and human approval gates.
 
 ## Recommended reader path
 
 - Start with [Hermes positioning](docs/hermes-positioning.md) and [dual-lane operating model](docs/dual-lane-operating-model.md).
 - Review [secondary operator lane](docs/hermes-secondary-operator-lane.md) for the core use case.
 - Read [skill and workflow examples](docs/skill-workflow-examples.md) for reusable patterns.
+- Review [durable Kanban, goals, and scheduled operations](docs/durable-kanban-and-goals.md) for work that outlives one chat turn.
 - Use [public-safe evidence](docs/public-safe-evidence.md) and [public release evidence](docs/public-release-evidence.md) to understand what is deliberately omitted.
 
 ## Public-safety boundary
